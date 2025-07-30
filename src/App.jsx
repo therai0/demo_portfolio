@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>This site is under construction </h1>
+      <h1>My name is Bhaskar Rai</h1>
     </>
   );
 }
